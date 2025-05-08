@@ -14,6 +14,22 @@ Each character was transformed into a one-hot encoded vector, and the final outp
 The first part of this lab focused on augmenting an image dataset to prepare it for image classification tasks by applying transformations like cropping, color shifts, and rotations.  
 The second part involved preprocessing a CSV dataset by handling missing values, converting units, removing duplicates, and visualizing the data using matplotlib with plots like histograms, boxplots, and a custom chart.
 
+### Lab 3 - Function & Dataset Regression
+
+Training a model to regress a custom-designed mathematical function and applying linear regression on a real Kaggle dataset. Explored issues like exploding/vanishing gradients and model limitations.
+
+### Lab 4 - EMNIST Letter Classification
+
+Built a simple fully connected neural network to classify EMNIST letters using only linear layers, with training monitored via TensorBoard.
+
+### Lab 5 - CNN for Custom Dataset
+
+Adapted a convolutional neural network to classify a custom image dataset, with support for image resizing and data augmentation to improve accuracy.
+
+### Lab 6 - CIFAR-10 Custom CNN
+
+Designed a custom CNN from scratch for CIFAR-10 image classification, with performance tracking in TensorBoard and accuracy-based scoring criteria.
+
 ## Folder Structure Example
 
 ```
@@ -23,5 +39,16 @@ DeepLearning/
 ├── Lab2/
 │   ├── csvVisualization.py
 │   └── imageAugmentation.py
+├── Lab3/
+│   ├── customFunctionRegression.py
+│   └── datasetLinearRegression.py
+├── Lab4/
+│   └── emnistLetterClassification.py
+├── Lab5/
+│   ├── customCNNClassficationModels.py
+│   └── customCNNClassficationTrain.py
+├── Lab6/
+│   ├── cifar10CustomCNNModels.py
+│   └── cifar10CustomCNNTrain.py
 └── README.md
 ```
