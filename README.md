@@ -34,11 +34,13 @@ Designed a custom CNN from scratch for CIFAR-10 image classification, with perfo
 
 Adapted a pretrained PyTorch ResNet50 neural network for Brain Tumor MRI dataset classification.
 
-Final accuracy on the test set: 99.16%  
-Accuracy for glioma class: 99.00%  
-Accuracy for meningioma class: 97.71%  
-Accuracy for notumor class: 99.75%  
+```
+Final accuracy on the test set: 99.16%
+Accuracy for glioma class: 99.00%
+Accuracy for meningioma class: 97.71%
+Accuracy for notumor class: 99.75%
 Accuracy for pituitary class: 100.00%
+```
 
 ## Folder Structure Example
 
