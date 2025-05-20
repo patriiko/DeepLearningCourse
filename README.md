@@ -30,6 +30,16 @@ Adapted a convolutional neural network to classify a custom image dataset, with 
 
 Designed a custom CNN from scratch for CIFAR-10 image classification, with performance tracking in TensorBoard and accuracy-based scoring criteria.
 
+### Lab 7 - PyTorch ResNet Transfer Learning 
+
+Adapted a pretrained PyTorch ResNet50 neural network for Brain Tumor MRI dataset classification.
+
+Final accuracy on the test set: 99.16%  
+Accuracy for glioma class: 99.00%  
+Accuracy for meningioma class: 97.71%  
+Accuracy for notumor class: 99.75%  
+Accuracy for pituitary class: 100.00%
+
 ## Folder Structure Example
 
 ```
@@ -50,5 +60,7 @@ DeepLearning/
 ├── Lab6/
 │   ├── cifar10CustomCNNModels.py
 │   └── cifar10CustomCNNTrain.py
+├── Lab7/
+│   └── transferLearning.py
 └── README.md
 ```
