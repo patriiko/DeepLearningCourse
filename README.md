@@ -42,6 +42,14 @@ Accuracy for notumor class: 99.75%
 Accuracy for pituitary class: 100.00%
 ```
 
+### Lab 8 - Custom ResNet Implementation for CIFAR-10 
+
+Implemented a custom ResNet (Residual Network) architecture from scratch using PyTorch for CIFAR-10 image classification. The project demonstrates deep understanding of residual connections, skip connections, and modern CNN architectures without using pretrained models.
+
+```
+Final accuracy on the test set: 93.03%
+```
+
 ## Folder Structure Example
 
 ```
