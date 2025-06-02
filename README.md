@@ -64,5 +64,9 @@ DeepLearning/
 │   └── cifar10CustomCNNTrain.py
 ├── Lab7/
 │   └── transferLearning.py
+├── Lab8/
+│   └── cifar10ResNetNeuralNetwork.py
+├── Lab9/
+│   └── customRNNModel.py
 └── README.md
 ```
