@@ -54,6 +54,10 @@ Final accuracy on the test set: 93.03%
 
 Developed a specialized text generator using word-level tokenization, processing entire words as vectors to produce coherent and stylistically consistent outputs from diverse text corpora
 
+### Lab 10 - Conditional GAN for generating MNIST digits.
+
+A Conditional GAN (CGAN) is implemented that generates specific digits from the MNIST dataset using PyTorch, enabling controlled digit generation based on label information and efficient training on a simple architecture.
+
 ## Folder Structure Example
 
 ```
@@ -85,6 +89,6 @@ DeepLearning/
 │   └── train.py
 │   └── training_dataset.py
 ├── Lab10/
-│   └── cgan_mnist.py
+│   └── cganMNIST.py
 └── README.md
 ```
