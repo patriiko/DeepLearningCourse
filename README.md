@@ -50,6 +50,10 @@ Implemented a custom ResNet (Residual Network) architecture from scratch using P
 Final accuracy on the test set: 93.03%
 ```
 
+### Lab 9 - Custom Recurrent Neural Network for Text Generation
+
+Developed a specialized text generator using word-level tokenization, processing entire words as vectors to produce coherent and stylistically consistent outputs from diverse text corpora
+
 ## Folder Structure Example
 
 ```
@@ -75,6 +79,11 @@ DeepLearning/
 ├── Lab8/
 │   └── cifar10ResNetNeuralNetwork.py
 ├── Lab9/
-│   └── customRNNModel.py
+│   └── load_dataset.py
+│   └── models.py
+│   └── test.py
+│   └── train.py
+│   └── training_dataset.py
+├── Lab10/
 └── README.md
 ```
