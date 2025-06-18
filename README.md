@@ -58,6 +58,8 @@ Developed a specialized text generator using word-level tokenization, processing
 
 A Conditional GAN (CGAN) is implemented that generates specific digits from the MNIST dataset using PyTorch, enabling controlled digit generation based on label information and efficient training on a simple architecture.
 
+### Lab 11 - CGAN and DCGAN for generating MNIST digits.
+
 ## Folder Structure Example
 
 ```
